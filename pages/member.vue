@@ -2,7 +2,7 @@
   <section class="boxs">
     <article class="boxed">
       <div class="thumbnail" style="background-image: url(https://wallpaper.thaiware.com/upload/wallpaper/2009_02/4543_4320_090224094719_9U.jpg)"></div>
-      <h1>นายฐารรรฎร  เกรัมย์888</h1>
+      <h1>นายฐารรรฎร  เกรัมย์</h1>
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
@@ -11,7 +11,7 @@
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
-      <div  class="thumbnail" style="background-image: url(https://scontent-fbkk5-7.us-fbcdn.net/v1/t.1-48/1426l78O9684I4108ZPH0J4S8_842023153_K1DlXQOI5DHP/dskvvc.qpjhg.xmwo/w/data/710/710953-topic-ix-9.jpg)"></div>
+      <div  class="thumbnail" snptyle="background-image: url(https://scontent-fbkk5-7.us-fbcdn.net/v1/t.1-48/1426l78O9684I4108ZPH0J4S8_842023153_K1DlXQOI5DHP/dskvvc.qpjhg.xmwo/w/data/710/710953-topic-ix-9.jpg)"></div>
       <h1>นางสุดฤดี  ประทุมชาติ</h1>
       <p>วอศ.อุบลราชธานี</p>
     </article>
