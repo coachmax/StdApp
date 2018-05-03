@@ -17,7 +17,7 @@
                 :type="e1 ? 'password' : 'text'"
                 counter
             ></v-text-field>
-            <v-btn color="primary" flat nuxt to="/">Continue</v-btn>
+            <v-btn color="primary" flat nuxt to="/admin">Continue</v-btn>
          </v-form>
 </template>
 <script>
