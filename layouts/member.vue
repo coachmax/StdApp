@@ -50,7 +50,7 @@
         items: [
           { icon: 'apps', title: 'Home', to: '/' },
           { icon: 'bubble_chart', title: 'Member', to: '/member' },
-          { icon: 'folder_open', title: 'Student', to: '/' },
+          { icon: 'folder_open', title: 'Student', to: '/stList' },
           { icon: 'event', title: 'Logout', to: '/' }
         ],
         miniVariant: false,
