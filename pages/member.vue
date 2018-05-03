@@ -2,7 +2,7 @@
   <section class="boxs">
     <article class="boxed">
       <div class="thumbnail" style="background-image: url(https://wallpaper.thaiware.com/upload/wallpaper/2009_02/4543_4320_090224094719_9U.jpg)"></div>
-      <h1>นายฐารรรฎร  เกรัมย์</h1>
+      <h1>นายฐารรรฎร  เกรัมย์888</h1>
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
