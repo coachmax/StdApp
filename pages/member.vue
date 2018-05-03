@@ -7,7 +7,7 @@
     </article>
     <article class="boxed">
       <div  class="thumbnail" style="background-image: url(http://www.desktopwallpaperhd.net/wallpapers/7/5/juegos-wallpapers-normal-nuevos-general-section-spoiler-76805.jpg)"></div>
-      <h1>นายกิตติ์โภคิน  ธนยศจินดารัชต์</h1>
+      <h1>นายกิตติ์โภคิน  ธนยศจินดารัชต์aaa</h1>
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
