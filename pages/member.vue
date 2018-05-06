@@ -8,9 +8,14 @@
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
+<<<<<<< HEAD
       <div  class="thumbnail"><img src="/KruMax.jpg" alt="ระบบจัดการข้อมูลนักศึกษา" class="mb-5" />
       </div>
       <h1>นายกิตติ์โภคิน  ธนยศจินดารัชต์</h1>
+=======
+      <div  class="thumbnail" style="background-image: url(http://www.desktopwallpaperhd.net/wallpapers/7/5/juegos-wallpapers-normal-nuevos-general-section-spoiler-76805.jpg)"></div>
+      <h1>นายกิตติ์โภคิน  ธนยศจินดารัชต์aaa</h1>
+>>>>>>> df059df51575c1ff1d9439f675f6f96652494efb
       <p>วท.บุรีรัมย์</p>
     </article>
     <article class="boxed">
